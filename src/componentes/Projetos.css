@@ -1,0 +1,15 @@
+.container-project {
+    background-color: rgb(163, 98, 224);
+    padding: 4px 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-project img {
+    max-width: 50%;
+}
+
+.container-project a {
+    padding: 10px;
+}

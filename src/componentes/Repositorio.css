@@ -1,0 +1,12 @@
+.repos {
+    background-color: blueviolet;
+    display: list-item;
+    padding: 4px;
+}
+
+.lista {
+    list-style-type: none;
+    padding: 4px;
+    background-color: white;
+    margin: 4px;
+}
